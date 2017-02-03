@@ -1,4 +1,4 @@
-# Workshop TDD Currency Converter
+# Workshop Development Currency Converter with Test Driven Development (TDD)
 
 # Material
 - https://drive.google.com/drive/folders/0B5TNw32R2IjfdFlkVnVsOXJpQ3M?usp=sharing
