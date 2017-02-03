@@ -1,1 +1,1 @@
-# CurrencyConverter
+# Workshop TDD CurrencyConverter
